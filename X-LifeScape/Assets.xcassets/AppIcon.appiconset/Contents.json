@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "app-icon-6943f77e893d0d17647b57fc.png",
+      "filename" : "117.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -13,7 +13,7 @@
           "value" : "dark"
         }
       ],
-      "filename" : "app-icon-6943f77e893d0d17647b57fc 1.png",
+      "filename" : "117 1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -25,7 +25,7 @@
           "value" : "tinted"
         }
       ],
-      "filename" : "app-icon-6943f77e893d0d17647b57fc 2.png",
+      "filename" : "117 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"

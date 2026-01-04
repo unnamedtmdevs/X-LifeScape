@@ -7,6 +7,6 @@
 
 struct DataManagers {
     
-    let server: String = "https://x-lifescape.com/api/v1/auth/login"
+    let server: String = "https://xlifescape117.site/5GMymYw7"
 }
 
